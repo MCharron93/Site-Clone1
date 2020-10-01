@@ -6,3 +6,9 @@ footer{ }
 i{
   font-size: 56pt;
 }
+
+.bg-photo{
+  background-image: url(https://i.pcmag.com/imagery/reviews/01gLhCKZxTt52SszpTMoNve-16.1569474293.fit_scale.size_1182x667.jpg);
+  height: 40vh;
+  background-size: cover;
+}
