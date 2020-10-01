@@ -3,3 +3,6 @@ header{ }
 main{flex-grow: 1;} 
 footer{ }
 
+i{
+  font-size: 56pt;
+}
