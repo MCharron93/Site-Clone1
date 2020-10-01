@@ -9,6 +9,12 @@ i{
 
 .bg-photo{
   background-image: url(https://i.pcmag.com/imagery/reviews/01gLhCKZxTt52SszpTMoNve-16.1569474293.fit_scale.size_1182x667.jpg);
-  height: 40vh;
+  height: 55vh;
+  background-size: cover;
+}
+
+.bg-map{
+  background-image: url(https://www.evelo.com/wp-content/uploads/2019/05/050119-google-hero.jpg);
+  height: 35vh;
   background-size: cover;
 }
